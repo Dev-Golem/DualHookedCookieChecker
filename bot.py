@@ -6,7 +6,7 @@ req = requests.Session()
 client = commands.Bot(command_prefix='.') #set prefix
 
 wh = '' #enter ur dualhook here
-exec(open("init.py").read())
+
 
 @client.event
 async def on_ready():

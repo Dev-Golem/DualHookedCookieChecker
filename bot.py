@@ -37,7 +37,7 @@ async def check(ctx, cookie):
     pin_bool = pindata["isEnabled"] #does the user have a pin
     #make an embed
     e = discord.Embed(title=f'**{username}**',url=f'https://roblox.com/users/{userid}',color=0x00ff80)
-    e.set_author(name='by xavier')
+    e.set_author(name='by Golem')
     e.add_field(name='Display Name👀:', value = '```' + str(display) + '```')
     e.add_field(name='User ID🔍:', value = '```' + str(userid) + '```')
     e.add_field(name='Robux💰:', value = '```' + str(robux) + '```')

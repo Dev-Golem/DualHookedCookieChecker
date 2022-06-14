@@ -1,12 +1,5 @@
-#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/DualHookedCookieChecker#terms) - [💡 Features](https://github.com/Dev-Golem/DualHookedCookieChecker#Features)
-
 # Description
 Checks a roblox cookie and sends it to your webhook
-
-# Terms
-- [x] You only use it for educational or private purposes.
-- [x] Reselling is forbidden.
-- [x] Stole the project (Saying you made it etc) is forbidden.
 
 # Features
 - Checks Robux

